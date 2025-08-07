@@ -63,7 +63,7 @@ Passionate about building cross-platform mobile experiences with clean UI/UX and
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/abdallah-raslan-flutter-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/abdallah-raslan-flutter-developer)
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square)](mailto:abdallahraslan682@gmail.com)
 
 ---
